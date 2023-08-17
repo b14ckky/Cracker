@@ -1,3 +1,8 @@
+- Requirements
+```
+pip install argparse hashlib
+```
+
 ```
 usage: Cracker.py [-h] [-l] [-hs HASH] [-t HASHTYPE] [-w WORDLIST] [-o OUTPUT]
 
