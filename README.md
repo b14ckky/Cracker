@@ -1,3 +1,4 @@
+```
 usage: Cracker.py [-h] [-l] [-hs HASH] [-t HASHTYPE] [-w WORDLIST] [-o OUTPUT]
 
 A Simple Hash Cracker Tool !!
@@ -9,3 +10,4 @@ options:
   -t HASHTYPE, --hashtype HASHTYPE  Username File
   -w WORDLIST, --wordlist WORDLIST  Password File
   -o OUTPUT, --output OUTPUT        Saving Output In Another File
+```
